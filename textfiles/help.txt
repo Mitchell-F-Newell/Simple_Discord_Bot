@@ -1,0 +1,46 @@
+```Oh Hi there, 
+I see you want to learn more about me. 
+Here is a list of my available commands:
+``` 
+__***!insult:***__ 
+```
+    - Sends a random insult to a tagged user
+    - Example case: !insut @Bostonbigpap
+``` 
+__***!compliment:***__ 
+```
+    - Sends a random compliment to a tagged user 
+    - Example case: !compliment @Bostonbigpap
+``` 
+__***!heartbreak:***__ 
+```
+    - Sends a random heartbreak gif
+    - Example case: !heartbreak
+```
+__***!kick:***__ 
+```
+    - Will kick a tagged user from the server (If they are kickable)
+    - Example case: !kick @Bostonbigpap
+    - DO NOT ABUSE THIS COMMAND OR IT WILL BE DISABLED FOR YOUR SERVER
+``` 
+__***!mute:***__ 
+```
+    - Will mute the targeted user from talking in voice chats
+    - Example case: !mute @Bostonbigpap
+``` 
+__***!takeAHike:***__ 
+```
+    - Will tell the targeted user to take a hike.
+    - Example case: !takeAHike @Bostonbigpap
+``` 
+
+***NOTE:***
+``` 
+    - More will regularily be added (More compliments, insults, heartbreaking gifs and new 
+      commands!)
+    - ALL COMPLIMENTS AND INSULTS WERE TAKEN FROM ONLINE DATABASES AND HAVE NOT BEEN REVIEWED. 
+      YOU HAVE BEEN WARNED.
+    - If you have a request for a new command, feature/functionality or would like to add your 
+      own hearbreaking gif contact/message user: @Bostonbigpap 
+      (E-mail: mitchell.newell.dev@gmail.com)
+```
